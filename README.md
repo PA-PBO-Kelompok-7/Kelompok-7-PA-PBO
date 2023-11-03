@@ -25,7 +25,10 @@ Meningkatkan akurasi dalam penilaian dan pelaporan kemajuan siswa.
 
 ![new](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/122207319/9fb8cde1-4aae-40b5-8f79-94f541b45545)
 
-(penjelasan di baris ini jika ada)
+Gambar tersebut hanya menunjukkan hubungan antara tabel "Siswa" dan tabel "Guru". Hubungan antara tabel "Siswa" dan tabel "Guru" adalah hubungan yang paling penting dalam sistem ini. Tabel "Siswa" menyimpan data tentang siswa, dan tabel "Guru" menyimpan data tentang guru. Hubungan antara kedua tabel ini adalah hubungan yang paling sering digunakan.
+Tabel "Guru Mapel" adalah tabel yang menyimpan data tentang guru dan mata pelajaran yang diampu oleh guru tersebut. Tabel ini tidak diperlukan untuk menjelaskan hubungan antara tabel "Siswa" dan tabel "Guru".
+Tabel "Nilai" adalah tabel yang menyimpan data tentang nilai siswa. Tabel ini tidak diperlukan untuk menjelaskan hubungan antara tabel "Siswa" dan tabel "Guru".
+Tabel "Mata Pelajaran" adalah tabel yang menyimpan data tentang mata pelajaran. Tabel ini tidak diperlukan untuk menjelaskan hubungan antara tabel "Siswa" dan tabel "Guru".
 
 ### Hierarki atau Inheritance atau Abstraction
 
