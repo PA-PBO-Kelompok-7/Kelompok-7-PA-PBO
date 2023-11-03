@@ -17,14 +17,12 @@ Meningkatkan akurasi dalam penilaian dan pelaporan kemajuan siswa.
 
 ### Flowchart
 
-(pastikan foto dimasukkan di baris ini)
-
+![FLOWCHATPA drawio](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/122207319/ba5e96f4-2221-463e-848f-6c7bfcf620b2)
 (penjelasan di baris ini jika ada)
 
 ### ERD
 
 ![new](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/122207319/9fb8cde1-4aae-40b5-8f79-94f541b45545)
-
 Gambar tersebut hanya menunjukkan hubungan antara tabel "Siswa" dan tabel "Guru". Hubungan antara tabel "Siswa" dan tabel "Guru" adalah hubungan yang paling penting dalam sistem ini. Tabel "Siswa" menyimpan data tentang siswa, dan tabel "Guru" menyimpan data tentang guru. Hubungan antara kedua tabel ini adalah hubungan yang paling sering digunakan.
 Tabel "Guru Mapel" adalah tabel yang menyimpan data tentang guru dan mata pelajaran yang diampu oleh guru tersebut. Tabel ini tidak diperlukan untuk menjelaskan hubungan antara tabel "Siswa" dan tabel "Guru".
 Tabel "Nilai" adalah tabel yang menyimpan data tentang nilai siswa. Tabel ini tidak diperlukan untuk menjelaskan hubungan antara tabel "Siswa" dan tabel "Guru".
