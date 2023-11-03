@@ -18,7 +18,7 @@ Meningkatkan akurasi dalam penilaian dan pelaporan kemajuan siswa.
 ### Flowchart
 
 ![FLOWCHATPA drawio](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/122207319/ba5e96f4-2221-463e-848f-6c7bfcf620b2)
-(penjelasan di baris ini jika ada)
+Flowchart ini merupakan proses berjalannya aplikasi Raport SMA
 
 ### ERD
 
