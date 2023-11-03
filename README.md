@@ -23,7 +23,7 @@ Meningkatkan akurasi dalam penilaian dan pelaporan kemajuan siswa.
 
 ### ERD
 
-(pastikan foto dimasukkan di baris ini)
+![new](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/122207319/9fb8cde1-4aae-40b5-8f79-94f541b45545)
 
 (penjelasan di baris ini jika ada)
 
