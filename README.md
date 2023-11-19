@@ -39,3 +39,10 @@ Tabel "Mata Pelajaran" adalah tabel yang menyimpan data tentang mata pelajaran. 
 
 ### Screenshoot Output
 
+![Screenshot 2023-11-19 225903](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/115331048/36664209-d208-401d-bbe9-baa9797b9a56)
+
+![Screenshot 2023-11-19 230236](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/115331048/b15c7501-a0fa-49f4-9a9a-f115998e760f)
+
+![Screenshot 2023-11-19 230132](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/115331048/31fee26c-df6d-4833-8183-de4ec992aaf4)
+
+![Screenshot 2023-11-19 230144](https://github.com/PA-PBO-Kelompok-7/Kelompok-7-PA-PBO/assets/115331048/025b38e4-2981-4d24-abd4-279107e88f88)
